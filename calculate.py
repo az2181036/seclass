@@ -56,6 +56,39 @@ def set_formula( a, b, c, op1, op2, flag):
         eqt = str(a) + op[op1] + str(b) + op[op2] + str(c) + "="
     return eqt
 
+def get_formula(n):
+    lst = set()
+    f_lst = list()
+    while (True):
+        # 集合中的数是否有N个
+        if len(lst) == n:
+            break
+        op1_index = rd.randint(0, 3)  # 随机算数符1
+        op2_index = rd.randint(0, 3)  # 随机算数符2
+
+        # 随机生成3个数
+        num_1 = rd.randint(0, 100)
+        num_2 = rd.randint(0, 100)
+        num_3 = rd.randint(0, 100)
+
+        # 计算前两个数
+        num_1, num_2, sum_12 = calculate(num_1, num_2, op1_index, False)
+        # 计算和与第三个数
+        sum_12, num_3, sum_123 = calculate(sum_12, num_3, op2_index, True)
+
+        # 由于我首先计算了前两个数的和，所以可能出现+，*等组成，需要加（）
+        flag = False  # 不需要加括号
+        if op1_index < 2 and op2_index > 1:  # 算数符1是+，- 并且 算数符2是 *,/
+            flag = True
+
+        # 生成算式
+        eqt = set_formula(num_1, num_2, num_3, op1_index, op2_index, flag)
+        # 判断算式 是否重复，不重复加入集合
+        if eqt not in lst:
+            lst.add(eqt)
+            f_lst.append([str(num_1), str(num_2), str(num_3), op[op1_index], op[op2_index], flag, str(sum_123)])
+    return f_lst
+
 def main():
     print("请输入出题数目：")
     n = int(input())    # 出题数目
