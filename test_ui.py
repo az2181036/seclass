@@ -1,14 +1,20 @@
 import sys
-from firstry import Ui_MainWindow
-from PyQt5 import QtCore, QtGui, QtWidgets
+import unittest
+from PyQt5 import QtWidgets
+from PyQt5.QtTest import QTest
+from PyQt5.QtCore import Qt
+import firstry
 
+# Dont finish, will not finish maybe.
 
+def test_defaults(self):
+    ok = self.pushButton_5
+    QTest.mouseClick(ok,Qt.LeftButton)
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
     Mainwindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
+    ui = firstry.Ui_MainWindow()
 
     ui.setupUi(Mainwindow)
-    Mainwindow.show()
     sys.exit(app.exec_())
