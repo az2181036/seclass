@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d6f9f75d-52ec-4f55-a598-eef2c9ee789e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/文档.docx" beforeDir="false" afterPath="$PROJECT_DIR$/task2/文档.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +33,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="py" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="Python" value="26" />
         </counts>
       </usages-collector>
@@ -346,7 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1558357529337</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update_task2">
+      <created>1558357693263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558357693263</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update_task2">
+      <created>1558357840622</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558357840622</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -433,7 +448,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/calculate.py" />
     <entry file="file://$PROJECT_DIR$/firstry.py" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/test_ui.py" />
     <entry file="file://$PROJECT_DIR$/task1/test_ui.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -483,6 +497,16 @@
           <folding>
             <element signature="e#197#239#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
