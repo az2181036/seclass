@@ -1,5 +1,5 @@
 import sys
-from firstry import Ui_MainWindow
+from untitled import Ui_MainWindow
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 

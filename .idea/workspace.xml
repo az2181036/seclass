@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6f9f75d-52ec-4f55-a598-eef2c9ee789e" name="Default Changelist" comment="" />
+    <list default="true" id="d6f9f75d-52ec-4f55-a598-eef2c9ee789e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task2/big_number_mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/venv/secondtry" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/seclass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seclass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/作业文档.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/测试报告.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/需求分析.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/check_rst.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/commit.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/end_page.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/illegal_answer.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/illegal_num.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/init.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/last_page.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/next_page.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/view_asw.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firsttry.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/IEEEtran.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/IEEEtran.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/requirement_analysis.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/requirement_analysis.bbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/requirement_analysis.blg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/requirement_analysis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/requirement_analysis.synctex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/requirement_analysis.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/test.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/test.bbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/test.blg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/test.synctex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/test.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.bbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.blg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.synctex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.synctex(busy)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tex/work.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,38 +64,40 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/seclass$calculate.coverage" NAME="calculate Coverage Results" MODIFIED="1554516300053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/seclass$ui.coverage" NAME="ui Coverage Results" MODIFIED="1555315183373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seclass$ui.coverage" NAME="ui Coverage Results" MODIFIED="1558351813860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seclass$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1558351669526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/seclass$test_ui.coverage" NAME="test_ui Coverage Results" MODIFIED="1555249422726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="738929737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="3" />
-          <entry key="py" value="18" />
+          <entry key="py" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="3" />
-          <entry key="Python" value="18" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="65" />
+          <entry key="Python Console" value="86" />
           <entry key="md" value="299" />
-          <entry key="py" value="6514" />
+          <entry key="py" value="6773" />
           <entry key="txt" value="30" />
         </counts>
       </usages-collector>
@@ -49,56 +105,54 @@
         <counts>
           <entry key="Markdown" value="299" />
           <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Python" value="6579" />
+          <entry key="Python" value="6859" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/untitled.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+              <folding>
+                <element signature="e#197#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task1/ui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_ui.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="308">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1555316645635" expanded="true" signature="193:194" ph="..." />
-                <marker date="1555316645635" expanded="true" signature="193:198" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="280">
-                <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstry.py">
+        <entry file="file://$PROJECT_DIR$/task1/firstry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="570" column="53" selection-start-line="570" selection-start-column="53" selection-end-line="570" selection-end-column="53" />
-              <folding>
-                <element signature="e#225#258#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -125,10 +179,11 @@
       <list>
         <option value="$PROJECT_DIR$/response.py" />
         <option value="$PROJECT_DIR$/calculate.py" />
-        <option value="$PROJECT_DIR$/ui.py" />
         <option value="$PROJECT_DIR$/firstry.py" />
         <option value="$PROJECT_DIR$/test_ui.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ui.py" />
+        <option value="$PROJECT_DIR$/untitled.py" />
       </list>
     </option>
   </component>
@@ -160,6 +215,16 @@
             </path>
             <path>
               <item name="seclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seclass" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seclass" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -170,10 +235,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/pyuic5.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lwf\Desktop\seclass" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,14 +324,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="untitled" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.calculate" />
       <item itemvalue="Python.test_ui" />
       <item itemvalue="Python.ui" />
+      <item itemvalue="Python.untitled" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ui" />
+        <item itemvalue="Python.untitled" />
         <item itemvalue="Python.test_ui" />
         <item itemvalue="Python.calculate" />
       </list>
@@ -306,7 +400,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555316852020</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update_doc">
+      <created>1555317722728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555317722728</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update_doc">
+      <created>1555317740288</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555317740288</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -319,25 +427,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49618322" visible="true" weight="0.26873663" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49618322" visible="true" weight="0.28017718" />
       <window_info id="Structure" order="1" sideWeight="0.5038168" side_tool="true" weight="0.26927194" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27383593" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27282378" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39808917" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908705" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005353" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946466" weight="0.3292683" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946466" weight="0.32908705" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32908705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -380,6 +487,17 @@
     <MESSAGE value="update_doc" />
     <option name="LAST_COMMIT_MESSAGE" value="update_doc" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/untitled.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/seconbtry.py" />
@@ -391,52 +509,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculate.py">
+    <entry file="file://$PROJECT_DIR$/calculate.py" />
+    <entry file="file://$PROJECT_DIR$/firstry.py" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/test_ui.py" />
+    <entry file="file://$PROJECT_DIR$/task1/firstry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2464">
-          <caret line="88" column="110" selection-start-line="88" selection-start-column="110" selection-end-line="88" selection-end-column="110" />
-          <folding>
-            <marker date="1555245510476" expanded="true" signature="1806:2799" ph="..." />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstry.py">
+    <entry file="file://$PROJECT_DIR$/task1/test_ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="570" column="53" selection-start-line="570" selection-start-column="53" selection-end-line="570" selection-end-column="53" />
+        <state relative-caret-position="252">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="e#225#258#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_ui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="308">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1555316645635" expanded="true" signature="193:194" ph="..." />
-            <marker date="1555316645635" expanded="true" signature="193:198" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/task1/ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#197#239#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
